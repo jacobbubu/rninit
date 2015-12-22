@@ -1,6 +1,6 @@
 {
   "name": "rninit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Run `react-native init` with specific react-native@version",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     "react-native"
   ],
   "bin": {
-    "react-native": "index.js"
+    "rninit": "index.js"
   },
   "author": "Rong Shen <rong.shen@gmail.com>",
   "license" : "BSD-3-Clause",
