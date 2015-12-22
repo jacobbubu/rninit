@@ -1,0 +1,26 @@
+{
+  "name": "rninit",
+  "version": "0.1.0",
+  "description": "Run `react-native init` with specific react-native@version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobbubu/rninit.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "bin": {
+    "react-native": "index.js"
+  },
+  "author": "Rong Shen <rong.shen@gmail.com>",
+  "license" : "BSD-3-Clause",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "prompt": "^0.2.14",
+    "semver": "^5.1.0"
+  }
+}

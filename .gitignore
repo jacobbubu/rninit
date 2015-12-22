@@ -1,0 +1,4 @@
+.DS_Store
+.nvm-version
+npm-debug.log
+/node_modules
